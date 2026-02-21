@@ -1400,6 +1400,9 @@ MonoBehaviour:
   - {fileID: 1869982225}
   - {fileID: 1207329805}
   starPoint: {fileID: 764270537}
+  duration: 0.2
+  delay: 0.05
+  ease: 27
 --- !u!1 &1009968599
 GameObject:
   m_ObjectHideFlags: 0
@@ -4200,7 +4203,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8835229685202505509, guid: 00afc9fb4087652419d090da0b825d97, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
