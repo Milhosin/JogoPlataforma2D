@@ -3529,6 +3529,7 @@ MonoBehaviour:
   startLife: 10
   destroyOnKill: 1
   delayToKill: 1
+  _flashColor: {fileID: 782645835}
 --- !u!1 &1482937259
 GameObject:
   m_ObjectHideFlags: 3
