@@ -3872,6 +3872,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 0
+  uiTextCoins: {fileID: 2048437928}
 --- !u!4 &1508781103
 Transform:
   m_ObjectHideFlags: 0
@@ -4977,9 +4978,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startLife: 3
-  destroyOnKill: 0
+  destroyOnKill: 1
   delayToKill: 0
-  _flashColor: {fileID: 0}
+  _flashColor: {fileID: 1872851002}
 --- !u!1 &1880493326
 GameObject:
   m_ObjectHideFlags: 0
